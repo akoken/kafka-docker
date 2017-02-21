@@ -1,0 +1,7 @@
+c:\users\akoke\documents\visual studio 2017\Projects\ApacheKafkaDemo\Kafka.ProducerApp\bin\Debug\Kafka.ProducerApp.exe.config
+c:\users\akoke\documents\visual studio 2017\Projects\ApacheKafkaDemo\Kafka.ProducerApp\bin\Debug\Kafka.ProducerApp.exe
+c:\users\akoke\documents\visual studio 2017\Projects\ApacheKafkaDemo\Kafka.ProducerApp\bin\Debug\Kafka.ProducerApp.pdb
+c:\users\akoke\documents\visual studio 2017\Projects\ApacheKafkaDemo\Kafka.ProducerApp\bin\Debug\kafka-net.dll
+c:\users\akoke\documents\visual studio 2017\Projects\ApacheKafkaDemo\Kafka.ProducerApp\obj\Debug\Kafka.ProducerApp.csprojResolveAssemblyReference.cache
+c:\users\akoke\documents\visual studio 2017\Projects\ApacheKafkaDemo\Kafka.ProducerApp\obj\Debug\Kafka.ProducerApp.exe
+c:\users\akoke\documents\visual studio 2017\Projects\ApacheKafkaDemo\Kafka.ProducerApp\obj\Debug\Kafka.ProducerApp.pdb
